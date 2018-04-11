@@ -1,2 +1,4 @@
 # kaggle
-uploading kaggle practice
+uploading kaggle practices
+
+kaggle profile: https://www.kaggle.com/sthkindacrazy
